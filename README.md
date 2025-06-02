@@ -1,2 +1,3 @@
 # Functions
 Functions assignments one through 6
+greeting function defines a function called "greet_guest" with one "name" parameter, it prints a string "Welcome, {name}! To the Desperado Hotel. We hope you enjoy your stay.", Where {name} is the value of the parameter given to the function. In the second cell, the function is called using different parameters, a variable, a string, an integer, a dictionary, an attribute within a dictionary, a list, and a value within a list. I made notes next to the ones that don't work well for the function. I wonder what other types would work as the parameter to get the intended result
